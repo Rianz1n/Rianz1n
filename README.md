@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Rian Carvalho, tenho 22 anos e sou de São Paulo. Atualmente estou cursando Analise & Desenvolvimento de Sistemas na Impacta, com cursos complementares pela Udemy,(Python com IA). Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin "[Rian Carvalho](https://www.linkedin.com/in/riancarvalho01/)" onde busco uma vaga de estagiario de Ti.
+Me chamo Rian Carvalho, tenho 22 anos e sou de São Paulo. Atualmente estou cursando Analise & Desenvolvimento de Sistemas na Impacta, com cursos complementares pela Udemy,(Python com IA). Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin "[Rian Carvalho](https://www.linkedin.com/in/riancarvalho01/)" onde busco um estagio em Ti.
 
 <p align="left">
     <a href="https://github.com/Rianz1n?tab=repositories&sort=stargazers">
